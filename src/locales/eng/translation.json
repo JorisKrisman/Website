@@ -1,0 +1,18 @@
+{
+  "locale": "en-US",
+
+  "Dashboard": "Dashboard",
+  "Dashboards": "Dashboard",
+  "Clients": "Clients",
+  "Doctors": "Doctors",
+  "Administrators": "Administrators",
+  "Appointments": "Appointments",
+
+  "Appointments Today": "Appointments Today",
+  "Upcoming Appointments": "Upcoming Appointments",
+
+  "Client": "Client",
+  "Date": "Date",
+
+  "Create Client": "Create Client"
+}

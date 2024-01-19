@@ -1,0 +1,63 @@
+{
+  "locale": "nl-NL",
+
+  "Yes": "Ja",
+  "No": "Nee",
+  "Role": "Rol",
+
+  "Dashboard": "Dashboard",
+  "Dashboards": "Dashboard",
+  "Clients": "Cliënten",
+  "Doctors": "Doktoren",
+  "Administrators": "Administratoren",
+  "Appointments": "Afspraken",
+
+  "Appointments Today": "Afspraken vandaag",
+  "Upcoming Appointment": "Eerstvolgende afspraak",
+  "Upcoming Appointments": "Komende afspraken",
+
+  "Client": "Cliënt",
+  "Date": "Datum",
+
+  "This field is required": "Dit veld is verplicht",
+  "Search": "Zoek",
+  "Search Term": "Zoekterm",
+
+  "Client List": "Cliëntenlijst",
+  "Name": "Naam",
+  "Archived": "Gearchiveerd",
+
+  "Create Client": "Cliënt creëren",
+  "First Name": "Voornaam",
+  "Prefix": "Tussenvoegsel(s)",
+  "Last Name": "Achternaam",
+  "Date of Birth": "Geboortedatum",
+  "Citizenship Number": "Burgerservicenummer",
+  "Gender": "Geslacht",
+  "Male": "Man",
+  "Female": "Vrouw",
+  "Insurance": "Verzekering",
+  "Insurance Number": "Verzekeringsnummer",
+  "Email Address": "E-mailadres",
+  "Phone Number": "Telefoonnummer",
+  "Mobile Phone Number": "Mobiel Telefoonnummer",
+  "Address": "Adres",
+  "House Number": "Huisnummer",
+  "Zipcode": "Postcode",
+  "Settlement": "Woonplaats",
+  "Country": "Land",
+  "Save": "Sla op",
+
+  "Client Details": "Cliëntdetails",
+  "Edit Client": "Cliënt wijzigen",
+
+  "Disallow Login": "Login niet toestaan",
+  "Allow Login": "Login toestaan",
+
+  "Doctors List": "Dokterslijst",
+  "Doctor": "Dokter",
+  "Create Doctor": "Doktor creëren",
+  "Edit Doctor": "Dokter wijzigen",
+
+  "Request Information": "Informatie opvragen"
+}
